@@ -8,7 +8,7 @@ body {
     background-size: cover;
 }
 
-.loginAndRegBox {
+.form {
     position: absolute;
     width: 400px;
     height: 310px;
@@ -18,7 +18,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.title-box {
+.head {
     height: 60px;
     background: url('/assets/images/login_title.png') no-repeat center;
 }
@@ -48,8 +48,4 @@ body {
 
 .layui-input {
     padding-left: 32px;
-}
-
-.reg-box {
-    display: none;
 }
